@@ -1,5 +1,7 @@
 Class Update
 
-Public static void{
+Public static void main(){
+
+	system.out.println("hello");
 
 }
